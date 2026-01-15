@@ -3,3 +3,11 @@ def clean():
 
 def visual():
   print("Creating the visuals...")
+def load_data():
+  print("Loading the Data...")
+
+def processing():
+  print("Processing the files...")
+
+def launch():
+  print("Website is online...")
